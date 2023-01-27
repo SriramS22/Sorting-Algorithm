@@ -71,10 +71,13 @@ print(value)
 ```
 
 ## Output:
-program 1
-![Sorting-Algorithm](https://user-images.githubusercontent.com/119094390/215128159-3ebbb281-83fc-4a84-9172-a398b8743134.png)
-program 2
-![SORTING-ALGORITHM ](https://user-images.githubusercontent.com/119094390/215128442-d1dcf762-f77f-4a9c-b27d-2514b967d585.png)
+program 1:
+![output](  ![outpur1](https://user-images.githubusercontent.com/119094390/215129390-b460a858-4041-437d-890f-7af15193af08.png)
+   )
+![output](   ![output2](https://user-images.githubusercontent.com/119094390/215129527-c6fe293d-9af6-4dd1-8a5b-fb24b7ae9dda.png)
+ )
+
+
 
 
 
