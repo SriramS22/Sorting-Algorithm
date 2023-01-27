@@ -71,10 +71,12 @@ print(value)
 ```
 
 ## Output:
-for program 1
-![Sorting-Algorithm](https://user-images.githubusercontent.com/119094390/215122484-28a985cb-b0e6-47b8-8208-12700ef76464.png)
-for program 2
-![SORTING-ALGORITHM ](https://user-images.githubusercontent.com/119094390/215122678-96a5deda-67ac-4fe3-901d-fbc974c23c9b.png)
+program 1
+![Sorting-Algorithm](https://user-images.githubusercontent.com/119094390/215128159-3ebbb281-83fc-4a84-9172-a398b8743134.png)
+program 2
+![SORTING-ALGORITHM ](https://user-images.githubusercontent.com/119094390/215128442-d1dcf762-f77f-4a9c-b27d-2514b967d585.png)
+
+
 
 
 ## Result:
