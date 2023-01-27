@@ -70,10 +70,11 @@ print(value)
 
 ## Output:
 ## program 1:
-![output](  ![outpur1](https://user-images.githubusercontent.com/119094390/215129390-b460a858-4041-437d-890f-7af15193af08.png)
-   )
-![output](   ![output2](https://user-images.githubusercontent.com/119094390/215129527-c6fe293d-9af6-4dd1-8a5b-fb24b7ae9dda.png)
+![output](  ![outpur1](https://user-images.githubusercontent.com/119094390/215130659-4018b13b-3748-420a-acc9-349af5d04d2b.png)
  )
+![output]( ![output2](https://user-images.githubusercontent.com/119094390/215130683-44ef054c-983e-402d-896d-e4591f2a68dc.png)
+  )
+ 
 
 
 
